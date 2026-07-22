@@ -1,0 +1,12 @@
+node_modules
+dist
+build
+.DS_Store
+.env
+server/node_modules
+client/node_modules
+client/dist
+server/coverage
+server/jest.cache
+server/jest.config.js
+server/__tests__
